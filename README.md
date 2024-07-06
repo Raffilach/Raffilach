@@ -3,6 +3,6 @@
 
 
 <h1 align="center">Hi there, I'm <a href="http://prostokrutoi.site/" target="_blank">Zabrodivshuy Kivi</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="30px"/></h1>
 <h3 align="center">I am a beginner Data Scientist and here you can get acquainted with my projects%)</h3>
 
